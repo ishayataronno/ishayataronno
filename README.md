@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ishayat Ibn Hassan
+# Hi there! 👋 I'm Ishayat 
 
 I'm a Computer Science Engineering student at United International University, passionate about diving into the realms of Machine Learning, Deep Learning, and Artificial Intelligence. Currently on a journey of transforming data into meaningful insights and solutions.
 
